@@ -1,0 +1,135 @@
+{
+	"cs_CZ": {
+		"authDialog.title": "Vyžaduje se ověření",
+		"authDialog.desc": "Server {URL} vyžaduje uživatelské jméno a heslo."
+	},
+	"da_DK": {
+		"authDialog.title": "Godkendelse er påkrævet",
+		"authDialog.desc": "Serveren {URL} kræver brugernavn og adgangskode."
+	},
+	"de_DE": {
+		"authDialog.title": "Authentifizierung erforderlich",
+		"authDialog.desc": "Für den Server {URL} sind Benutzername und Kennwort erforderlich."
+	},
+	"en_AE": {
+		"authDialog.title": "Authentication Required",
+		"authDialog.desc": "The server {URL} requires user name and password."
+	},
+	"en_GB": {
+		"authDialog.title": "Authentication Required",
+		"authDialog.desc": "The server {URL} requires user name and password."
+	},
+	"en_IL": {
+		"authDialog.title": "Authentication Required",
+		"authDialog.desc": "The server {URL} requires user name and password."
+	},
+	"en_US": {
+		"authDialog.title": "Authentication Required",
+		"authDialog.desc": "The server {URL} requires user name and password."
+	},
+	"en_XM": {
+		"authDialog.title": "Authentication Required",
+		"authDialog.desc": "The server {URL} requires user name and password."
+	},
+	"es_ES": {
+		"authDialog.title": "Autenticación obligatoria",
+		"authDialog.desc": "Para acceder al servidor {URL} es necesario nombre de usuario y contraseña."
+	},
+	"es_LA": {
+		"authDialog.title": "Autenticación obligatoria",
+		"authDialog.desc": "Para acceder al servidor {URL} es necesario nombre de usuario y contraseña."
+	},
+	"es_MX": {
+		"authDialog.title": "Autenticación obligatoria",
+		"authDialog.desc": "Para acceder al servidor {URL} es necesario nombre de usuario y contraseña."
+	},
+	"es_NA": {
+		"authDialog.title": "Autenticación obligatoria",
+		"authDialog.desc": "Para acceder al servidor {URL} es necesario nombre de usuario y contraseña."
+	},
+	"fi_FI": {
+		"authDialog.title": "Todennusta vaaditaan",
+		"authDialog.desc": "Palvelin {URL} vaatii käyttäjänimen ja salasanan."
+	},
+	"fr_CA": {
+		"authDialog.title": "Authentification requise",
+		"authDialog.desc": "Nom d’utilisateur et mot de passe requis pour le serveur {URL}."
+	},
+	"fr_FR": {
+		"authDialog.title": "Authentification requise",
+		"authDialog.desc": "Nom d’utilisateur et mot de passe requis pour le serveur {URL}."
+	},
+	"fr_MA": {
+		"authDialog.title": "Authentification requise",
+		"authDialog.desc": "Nom d’utilisateur et mot de passe requis pour le serveur {URL}."
+	},
+	"fr_XM": {
+		"authDialog.title": "Authentification requise",
+		"authDialog.desc": "Nom d’utilisateur et mot de passe requis pour le serveur {URL}."
+	},
+	"hu_HU": {
+		"authDialog.title": "Hitelesítés szükséges",
+		"authDialog.desc": "A szerverhez {URL} felhasználónév és jelszó megadása szükséges."
+	},
+	"it_IT": {
+		"authDialog.title": "Autenticazione obbligatoria",
+		"authDialog.desc": "Il server {URL} richiede nome utente e password."
+	},
+	"ja_JP": {
+		"authDialog.title": "認証が必要です",
+		"authDialog.desc": "サーバー {URL} には、ユーザー名とパスワードが必要です。"
+	},
+	"ko_KR": {
+		"authDialog.title": "인증 필요",
+		"authDialog.desc": "{URL} 서버에는 사용자 이름과 암호가 필요합니다."
+	},
+	"nb_NO": {
+		"authDialog.title": "Godkjenning kreves",
+		"authDialog.desc": "Serveren {URL} krever brukernavn og passord."
+	},
+	"nl_NL": {
+		"authDialog.title": "Verificatie vereist",
+		"authDialog.desc": "De server {URL} vereist een gebruikersnaam en wachtwoord."
+	},
+	"pl_PL": {
+		"authDialog.title": "Wymagane uwierzytelnienie",
+		"authDialog.desc": "Serwer {URL} wymaga podania nazwy użytkownika i hasła."
+	},
+	"pt_BR": {
+		"authDialog.title": "Autenticação necessária",
+		"authDialog.desc": "O servidor {URL} requer nome de usuário e senha."
+	},
+	"ru_RU": {
+		"authDialog.title": "Требуется аутентификация",
+		"authDialog.desc": "Для сервера {URL} необходимо ввести имя пользователя и пароль."
+	},
+	"sk_SK": {
+		"authDialog.title": "Vyžaduje sa overenie totožnosti",
+		"authDialog.desc": "Server {URL} vyžaduje vaše používateľské meno a heslo."
+	},
+	"sl_SI": {
+		"authDialog.title": "Potrebno je preverjanje pristnosti",
+		"authDialog.desc": "{URL} strežnik zahteva vaše uporabniško ime in geslo."
+	},
+	"sv_SE": {
+		"authDialog.title": "Autentisering krävs",
+		"authDialog.desc": "Servern {URL} kräver användarnamn och lösenord."
+	},
+	"tr_TR": {
+		"authDialog.title": "Kimlik Doğrulaması Gerekli",
+		"authDialog.desc": "{URL} sunucusu için kullanıcı adı ve şifre gerekiyor."
+	},
+	"uk_UA": {
+		"authDialog.title": "Необхідно автентифікуватися",
+		"authDialog.desc": "Сервер {URL} має містити ім'я користувача й пароль."
+	},
+	"zh_CN": {
+		"authDialog.title": "需要进行身份验证",
+		"authDialog.desc": "服务器 {URL} 要求输入用户名和密码。"
+	},
+	"zh_TW": {
+		"authDialog.title": "需要驗證",
+		"authDialog.desc": "伺服器 {URL} 需要輸入用戶名稱和密碼。"
+	},
+	
+}
